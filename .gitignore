@@ -1,4 +1,4 @@
  
-/build/
-/.gradle/
-/build/classes/java/main/
+**/build/
+**/.gradle/
+**/build/classes/java/main/
